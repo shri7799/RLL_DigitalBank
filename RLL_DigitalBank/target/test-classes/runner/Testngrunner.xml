@@ -1,0 +1,17 @@
+<suite name="test1" verbose="1">
+
+	<listeners>
+    	<listener class-name="utilities.ITestListenerClass"></listener>
+    	<!-- <listener class-name="utilities.TestRetryAnalyzerListener"></listener> -->
+	</listeners>
+	
+	<test name="POMframework">
+		<classes>
+			
+			<class name="tests.Deposit_into_Account_Test"></class>
+			
+			<!--class name="com.mphasis.qa.testpages.DepositPage"></class>-->
+
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [test1]">
+  <listeners>
+    <listener class-name="utilities.ITestListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="POMframework(failed)">
+    <classes>
+      <class name="tests.Deposit_into_Account_Test">
+        <methods>
+          <include name="logout"/>
+          <include name="getBrowser"/>
+          <include name="teardown"/>
+          <include name="generateReports"/>
+          <include name="setup"/>
+          <include name="InitalizeExtentReport"/>
+          <include name="getnameMethod"/>
+          <include name="testdeposit"/>
+          <include name="generateTestStatus"/>
+        </methods>
+      </class> <!-- tests.Deposit_into_Account_Test -->
+    </classes>
+  </test> <!-- POMframework(failed) -->
+</suite> <!-- Failed suite [test1] -->

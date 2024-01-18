@@ -1,0 +1,9 @@
+[INFO ] 2024-01-17 13:29:29.882 [main] Deposit_into_Account_Test - Checking Reset button
+[INFO ] 2024-01-17 13:29:30.130 [main] Deposit_into_Account_Test - Checking Submit button with empty fields 
+[ERROR] 2024-01-17 13:29:40.449 [main] Deposit_into_Account_Test - The deposit amount ($0.00) must be greater than $0.00
+[INFO ] 2024-01-17 14:13:21.309 [main] Deposit_into_Account_Test - Checking Reset button
+[INFO ] 2024-01-17 14:13:21.598 [main] Deposit_into_Account_Test - Checking Submit button with empty fields 
+[ERROR] 2024-01-17 14:13:34.534 [main] Deposit_into_Account_Test - The deposit amount ($0.00) must be greater than $0.00
+[INFO ] 2024-01-17 14:28:09.038 [main] Deposit_into_Account_Test - Checking Reset button
+[INFO ] 2024-01-17 14:28:09.341 [main] Deposit_into_Account_Test - Checking Submit button with empty fields 
+[ERROR] 2024-01-17 14:28:21.069 [main] Deposit_into_Account_Test - The deposit amount ($0.00) must be greater than $0.00
